@@ -2,25 +2,35 @@
 
 
 
+개발 공부<br>
 <a href="https://www.notion.so/Dev-Study-e1c2b49a903347a4aa3fc8d06ecd182c?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-0ABF53?style=for-the-badge&logo=Notion&logoColor=white%22%3E">
-
+        <img src="https://img.shields.io/badge/Notion-A100FF?style=for-the-badge&logo=Notion&logoColor=white%22%3E">
+<br>
+<br>
+<br>    
+        
+ <p>       
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-007396?style=for-flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-007396?style=flat-square&logo=java&logoColor=white">
 <br>
-
+ </p>
+        
+<p>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logocss3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Tiles-F7DF1E?style=flat-square&logo=Tiles&logoColor=black">
 <br>
+ </p>
 
+<p>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <br>
+</p>
 
