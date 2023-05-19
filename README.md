@@ -44,5 +44,6 @@
 <br>
 
 # 프로젝트 메인(영화 예매 사이트)
+[영화 예매 프로젝트](https://github.com/BAEJUHEE/MovieProject)
 
 ![11](https://github.com/BAEJUHEE/MovieProject/assets/125854264/bb4b9cdf-ce9a-4039-88db-d93f05a45ab5)
