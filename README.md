@@ -2,13 +2,14 @@
 
 
 
-개발 공부<br>
+#### ✏️  Study log <br>
 <a href="https://www.notion.so/Dev-Study-e1c2b49a903347a4aa3fc8d06ecd182c?pvs=4">
         <img src="https://img.shields.io/badge/Notion-A100FF?style=for-the-badge&logo=Notion&logoColor=white%22%3E">
 <br>
 <br>
 <br>    
-        
+ 
+Skill
  <p>       
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
