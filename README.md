@@ -4,7 +4,7 @@
 
 #### ✏️  Study log <br>
 <a href="https://www.notion.so/Dev-Study-e1c2b49a903347a4aa3fc8d06ecd182c?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-A100FF?style=for-the-badge&logo=Notion&logoColor=white%22%3E">
+        <img src="https://img.shields.io/badge/Notion-A100FF?style=for-the-badge&logo=Notion&logoColor=white%22%3E"></a>
 <br>
 <br>
 <br>    
