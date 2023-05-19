@@ -35,4 +35,7 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <br>
 </p>
+<br>
 
+대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] <br>
+2022.10 - 2023.03
