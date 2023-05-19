@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+
+<a href="https://www.notion.so/Dev-Study-e1c2b49a903347a4aa3fc8d06ecd182c?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-0ABF53?style=for-the-badge&logo=Notion&logoColor=white%22%3E">
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-007396?style=for-flat-square&logo=java&logoColor=white">
