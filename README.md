@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm JUHEE 👋
 
 
 
@@ -7,9 +7,10 @@
         <img src="https://img.shields.io/badge/Notion-A100FF?style=for-the-badge&logo=Notion&logoColor=white%22%3E"></a>
 <br>
 <br>
-<br>    
+
  
-Skill
+ 
+ ####  📋 Once I've Used 
  <p>       
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
