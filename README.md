@@ -39,3 +39,10 @@
 
 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] <br>
 2022.10 - 2023.03
+<br>
+<br>
+<br>
+
+# 프로젝트 메인(영화 예매 사이트)
+
+![11](https://github.com/BAEJUHEE/MovieProject/assets/125854264/bb4b9cdf-ce9a-4039-88db-d93f05a45ab5)
